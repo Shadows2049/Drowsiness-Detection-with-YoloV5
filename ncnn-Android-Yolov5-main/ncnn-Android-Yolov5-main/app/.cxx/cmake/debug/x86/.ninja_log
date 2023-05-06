@@ -1,0 +1,5 @@
+# ninja log v5
+1	1593	700503860	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	1f1e5dcb31dc2c5d
+14	1756	700503860	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	7b7d54c319dc4122
+7	1903	700503860	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	5c4e02985c8541a9
+1903	2338	700503861	C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/build/intermediates/cmake/debug/obj/x86/libncnnyolov5.so	9264b0e819f4ac6f

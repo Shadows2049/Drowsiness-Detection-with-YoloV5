@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidSDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/ncnn-20210525-android-vulkan/x86/include/ncnn -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\yolov5ncnn.cpp.o -c C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5ncnn.cpp",
+  "file": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5ncnn.cpp"
+},
+
+{
+  "directory": "C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidSDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/ncnn-20210525-android-vulkan/x86/include/ncnn -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\yolov5.cpp.o -c C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5.cpp",
+  "file": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5.cpp"
+},
+
+{
+  "directory": "C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidSDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/ncnn-20210525-android-vulkan/x86/include/ncnn -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\ndkcamera.cpp.o -c C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]

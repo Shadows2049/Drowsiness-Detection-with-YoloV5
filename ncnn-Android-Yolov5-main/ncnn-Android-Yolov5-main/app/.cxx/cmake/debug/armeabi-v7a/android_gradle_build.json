@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=E:/AndroidSDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncnnyolov5_EXPORTS -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/ncnn-20210525-android-vulkan/armeabi-v7a/include/ncnn -isystem C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\AndroidSDK\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\AndroidSDK\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolov5-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" ncnnyolov5",
+      "buildType": "debug",
+      "toolchain": "151797324",
+      "abi": "armeabi-v7a",
+      "artifactName": "ncnnyolov5",
+      "files": [
+        {
+          "src": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5ncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\yolov5.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libncnnyolov5.so"
+    }
+  },
+  "toolchains": {
+    "151797324": {
+      "cppCompilerExecutable": "E:\\AndroidSDK\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

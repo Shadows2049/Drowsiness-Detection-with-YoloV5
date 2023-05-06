@@ -1,0 +1,11 @@
+# ninja log v5
+12	1576	701762419	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	12499a2ee3017640
+0	1701	701762419	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	cfb129749b6b13a3
+7	1824	701762419	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	b8df91dcd5cb6a45
+1824	2970	701762420	C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libncnnyolov5.so	224461e381e054ec
+13	1475	701766815	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	cfb129749b6b13a3
+1475	2376	701766816	C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libncnnyolov5.so	224461e381e054ec
+6	1252	701767920	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	b8df91dcd5cb6a45
+1252	2208	701767920	C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libncnnyolov5.so	224461e381e054ec
+4	1212	701767995	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	b8df91dcd5cb6a45
+1212	2184	701767996	C:/Users/Shadows/Desktop/ncnn-Android-Yolov5-main/ncnn-Android-Yolov5-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libncnnyolov5.so	224461e381e054ec

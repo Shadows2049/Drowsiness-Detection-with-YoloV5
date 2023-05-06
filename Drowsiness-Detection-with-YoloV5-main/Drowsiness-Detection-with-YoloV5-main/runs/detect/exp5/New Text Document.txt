@@ -1,0 +1,3 @@
+Model Summary: 213 layers, 1764577 parameters, 0 gradients, 4.1 GFLOPs
+image 1/1 C:\Users\Shadows\Downloads\PROJECT\Drowsiness-Detection-with-YoloV5-main\Drowsiness-Detection-with-YoloV5-main\data\drowsy_training\test\images\9819-ifmectk7024171.jpg: 640x480 1 yawning, Done. (0.073s)
+Speed: 1.0ms pre-process, 72.8ms inference, 1.0ms NMS per image at shape (1, 3, 640, 640)

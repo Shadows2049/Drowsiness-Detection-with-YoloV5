@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "222,104,55",
+                        "endLines": "10,6,2",
+                        "endColumns": "19,19,48",
+                        "endOffsets": "326,217,99"
+                    },
+                    "to": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,282",
+                        "endLines": "5,9,10",
+                        "endColumns": "19,19,48",
+                        "endOffsets": "159,277,326"
+                    }
+                }
+            ]
+        }
+    ]
+}

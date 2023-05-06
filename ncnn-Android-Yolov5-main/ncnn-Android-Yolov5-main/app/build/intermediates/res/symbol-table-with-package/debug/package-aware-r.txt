@@ -1,0 +1,10 @@
+com.tencent.nanodetncnn
+array cpugpu_array
+array model_array
+id buttonSwitchCamera
+id buttonTakePhoto
+id cameraview
+id spinnerCPUGPU
+id spinnerModel
+layout main
+string app_name

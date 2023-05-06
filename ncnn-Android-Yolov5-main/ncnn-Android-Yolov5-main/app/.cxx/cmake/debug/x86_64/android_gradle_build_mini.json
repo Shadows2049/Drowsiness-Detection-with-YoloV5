@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "E:\\AndroidSDK\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\AndroidSDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolov5-Debug-x86_64": {
+      "artifactName": "ncnnyolov5",
+      "buildCommand": "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\.cxx\\cmake\\debug\\x86_64\" ncnnyolov5",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Shadows\\Desktop\\ncnn-Android-Yolov5-main\\ncnn-Android-Yolov5-main\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libncnnyolov5.so"
+    }
+  }
+}

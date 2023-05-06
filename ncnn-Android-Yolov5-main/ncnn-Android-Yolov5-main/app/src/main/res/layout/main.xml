@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="63dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonSwitchCamera"
+            android:layout_width="171dp"
+            android:layout_height="match_parent"
+            android:background="#8BC34A"
+            android:backgroundTintMode="add"
+            android:text="Switch Cam" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Spinner
+            android:id="@+id/spinnerModel"
+            android:layout_width="86dp"
+            android:layout_height="match_parent"
+            android:background="#00E5FF"
+            android:drawSelectorOnTop="true"
+            android:entries="@array/model_array" />
+
+        <Spinner
+            android:id="@+id/spinnerCPUGPU"
+            android:layout_width="85dp"
+            android:layout_height="match_parent"
+            android:background="#1DE9B6"
+            android:drawSelectorOnTop="true"
+            android:dropDownWidth="match_parent"
+            android:entries="@array/cpugpu_array"
+            android:spinnerMode="dropdown" />
+
+        <Button
+            android:id="@+id/buttonTakePhoto"
+            style="@android:style/Widget.DeviceDefault.Light.Button.Inset"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#03A9F4"
+            android:text="Upload Your Photo"
+            android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    </LinearLayout>
+
+    <SurfaceView
+        android:id="@+id/cameraview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>
